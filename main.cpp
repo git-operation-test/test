@@ -2,9 +2,9 @@
 
 int main()
 {
-    std::cout << "001 Hello, World!" << std::endl;
-    std::cout << "002 Hello, World!" << std::endl;
-    std::cout << "003 Hello, World!" << std::endl;
-    std::cout << "004 Hello, Test!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, Test!" << std::endl;
     return 0;
 }
